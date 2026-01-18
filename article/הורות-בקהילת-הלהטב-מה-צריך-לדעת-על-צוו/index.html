@@ -698,7 +698,7 @@
   opacity: 0.7;
 }</style>
     <!-- Cookie Consent -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
@@ -990,7 +990,7 @@
                 <li class="nav-item"><a href="/about-me/" class="nav-link">About Me</a></li>
                 <li class="nav-item"><a href="/מגשרת/" class="nav-link">מגשרת</a></li>
                 <li class="nav-item"><a href="/להט״בים/" class="nav-link">להט״בים</a></li>
-                <li class="nav-item"><a href="/תרגום-ועריכה/" class="nav-link">תרגום ועריכה</a></li>
+                <li class="nav-item"><a href="/תרגום-ועריכה/" class="nav-link"></a><a href="https://zappy5.com/preview/8a893636-598d-4357-a949-91f64b34f498?page=%2F%D7%AA%D7%A8%D7%92%D7%95%D7%9D-%D7%95%D7%A2%D7%A8%D7%99%D7%9B%D7%94%2F" target="_blank" rel="noopener noreferrer" style="color: rgb(255, 255, 255); text-decoration: underline; cursor: pointer;">תרגום ועריכה</a></li>
                 <li class="nav-item"><a href="/category/article/" class="nav-link">Article</a></li>
                 <li class="nav-item"><a href="/המלצות/" class="nav-link">המלצות</a></li>
                 <li class="nav-item">
@@ -1143,13 +1143,13 @@
             <p>© 2026 משרד עורכי דין טליה ברזאני. כל הזכויות שמורות.</p>
           </div>
           <div class="footer-social">
-              <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="social-icon social-facebook">
+              <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="social-icon social-facebook" style="display:none;">
                 <i class="fa-brands fa-facebook-f"></i>
               </a>
-              <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="social-icon social-instagram">
+              <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="social-icon social-instagram" style="display:none;">
                 <i class="fa-brands fa-instagram"></i>
               </a>
-              <a href="#" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" class="social-icon social-whatsapp">
+              <a href="#" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" class="social-icon social-whatsapp" style="display:none;">
                 <i class="fa-brands fa-whatsapp"></i>
               </a></div>
           <div class="footer-legal">
@@ -1523,7 +1523,7 @@
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
         const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '[business_phone]';
+          : '077-4412104';
         
         window.location.href = 'tel:' + phoneNumber;
         console.log('[Navbar] Phone button clicked');
