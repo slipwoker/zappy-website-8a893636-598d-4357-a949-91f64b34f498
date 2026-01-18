@@ -1,6 +1,4 @@
-# משרד עורכי דין ונוטריון טליה ברזאני — Generative Engine Optimization Map
-
-> A שירותים משפטיים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -34,7 +32,7 @@ https://talia-barzani-law-notary-offic.zappy5.app/תרגום-ועריכה/
 שירותי תרגום עברית-אנגלית ואנגלית-עברית, כתיבה ועריכה באנגלית. מתרגמת מנוסה עם תארים מתקדמים מאוניברסיטת ייל - Ph.D. Cand., M.Phil, M.A. מעל 15 שנות ניסיון בתרגום חומר אקדמי, משפטי וטכני.
 
 ### Article
-https://talia-barzani-law-notary-offic.zappy5.app/category/article/
+https://talia-barzani-law-notary-offic.zappy5.app/mailboxes
 כתבות ומאמרים משפטיים מאת עו״ד טליה ברזאני - מומחית לדיני מקרקעין, גישור, ייצוג משפטי ועוד. מאמרים מקצועיים בנושאי פינוי בינוי, דייר מוגן, הורות בקהילת הלהטב, ייצוג משותף בעסקאות מקרקעין ועוד.
 
 ### המלצות
@@ -87,15 +85,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About משרד עורכי דין ונוטריון טליה ברזאני
-משרד עורכי דין ונוטריון טליה ברזאני is a business in the שירותים משפטיים industry.
-
-## Target Audience
-General audience
-
-## Industry
-שירותים משפטיים
-
+## About Business
 ---
 
 # Additional Resources
