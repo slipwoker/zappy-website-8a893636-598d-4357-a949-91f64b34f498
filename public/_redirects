@@ -1,24 +1,17 @@
 # Clean URL redirects for Render static hosting
 # These rewrite rules show clean URLs to users while serving .html files
 
-/home/  /home.html  200
+/house  /house.html  200
 /%D7%90%D7%95%D7%93%D7%95%D7%AA/  /אודות/index.html  200
-/about-me/  /about-me.html  200
 /%D7%9E%D7%92%D7%A9%D7%A8%D7%AA/  /מגשרת/index.html  200
 /%D7%9C%D7%94%D7%98%D7%B4%D7%91%D7%99%D7%9D/  /להט״בים/index.html  200
 /%D7%AA%D7%A8%D7%92%D7%95%D7%9D-%D7%95%D7%A2%D7%A8%D7%99%D7%9B%D7%94/  /תרגום-ועריכה/index.html  200
 /mailboxes  /mailboxes.html  200
 /%D7%94%D7%9E%D7%9C%D7%A6%D7%95%D7%AA/  /המלצות/index.html  200
-/%D7%A6%D7%95%D7%A8-%D7%A7%D7%A9%D7%A8/  /צור-קשר/index.html  200
-/article%2F%D7%A2%D7%99%D7%9C%D7%95%D7%AA-%D7%9C%D7%A4%D7%99%D7%A0%D7%95%D7%99-%D7%93%D7%99%D7%99%D7%A8-%D7%9E%D7%95%D7%92%D7%9F/  /article/עילות-לפינוי-דייר-מוגן/index.html  200
-/2011/04/18/  /2011/04/18.html  200
-/article%2F%D7%9B%D7%AA%D7%91%D7%94-%D7%A2%D7%9C-%D7%9B%D7%AA%D7%91-%D7%A1%D7%99%D7%9C%D7%95%D7%A7-%D7%91%D7%92%D7%91-%D7%94%D7%A6%D7%A7/  /article/כתבה-על-כתב-סילוק-בגב-הצק/index.html  200
-/2019/01/05/  /2019/01/05.html  200
-/article%2F%D7%94%D7%95%D7%A8%D7%95%D7%AA-%D7%91%D7%A7%D7%94%D7%99%D7%9C%D7%AA-%D7%94%D7%9C%D7%94%D7%98%D7%91-%D7%9E%D7%94-%D7%A6%D7%A8%D7%99%D7%9A-%D7%9C%D7%93%D7%A2%D7%AA-%D7%A2%D7%9C-%D7%A6%D7%95%D7%95/  /article/הורות-בקהילת-הלהטב-מה-צריך-לדעת-על-צוו/index.html  200
-/2021/07/08/  /2021/07/08.html  200
 /privacy  /privacy.html  200
 /accessibility  /accessibility.html  200
 /terms  /terms.html  200
+/%D7%A6%D7%95%D7%A8-%D7%A7%D7%A9%D7%A8/  /צור-קשר/index.html  200
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301

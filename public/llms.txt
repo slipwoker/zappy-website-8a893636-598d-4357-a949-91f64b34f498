@@ -1,25 +1,19 @@
-# משרד עורכי דין ונוטריון טליה ברזאני — Generative Engine Optimization Map
-
-> A שירותים משפטיים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
-### משרד עורכי דין ונוטריון טליה ברזאני
+### Page
 https://talia-barzani-law-notary-offic.zappy5.app
 
 ### Home
-https://talia-barzani-law-notary-offic.zappy5.app/home/
+https://talia-barzani-law-notary-offic.zappy5.app/house
 משרד עורכי דין ונוטריון טליה ברזאני - משרד בוטיק ייחודי המציע שירותים וייעוץ משפטי רחב היקף בתחומי מקרקעין, גישור, נוטריון, להט״בים ותרגום. שירות מקצועי ואישי עם מומחיות רבת שנים.
 
 ### אודות
 https://talia-barzani-law-notary-offic.zappy5.app/אודות/
 עורכת דין ונוטריון טליה ברזאני - תעודות והסמכות מקצועיות. בוגרת תואר במשפטים ומנהל עסקים, מומחית בגישור, פשיטות רגל ותמא 38. משרד בוטיק המציע שירותים משפטיים מקצועיים.
-
-### About Me
-https://talia-barzani-law-notary-offic.zappy5.app/about-me/
-עורכת דין ונוטריון טליה ברזאני - תעודות והסמכות מקצועיות, בוגרת קורסים בפשיטות רגל, גישור וייפוי כוח. משרד בוטיק ייחודי המציע שירותים וייעוץ משפטי רחב היקף.
 
 ### מגשרת
 https://talia-barzani-law-notary-offic.zappy5.app/מגשרת/
@@ -45,30 +39,6 @@ https://talia-barzani-law-notary-offic.zappy5.app/המלצות/
 https://talia-barzani-law-notary-offic.zappy5.app/צור-קשר/
 צור קשר עם משרד עורכי דין ונוטריון טליה ברזאני. משרד ראשי ברמת גן ושלוחה בירושלים. שירותים משפטיים מקצועיים בתחומים מגוונים. טלפון: 077-4412104 / 054-6494200
 
-### עילות לפינוי דייר מוגן
-https://talia-barzani-law-notary-offic.zappy5.app/article/עילות-לפינוי-דייר-מוגן/
-מדריך מקיף על עילות לפינוי דייר מוגן לפי חוק הגנת הדייר. מידע משפטי מקצועי על זכויות דיירים מוגנים, פינוי כפוי, סידור חליפי ועוד. משרד עורכי דין ונוטריון טליה ברזאני.
-
-### 18
-https://talia-barzani-law-notary-offic.zappy5.app/2011/04/18/
-ארכיון כתבות משפטיות מיום 18 באפריל 2011 - עילות לפינוי דייר מוגן ומאמרים נוספים מאת עורכת דין ונוטריון טליה ברזאני
-
-### כתבה על כתב סילוק בגב הצק
-https://talia-barzani-law-notary-offic.zappy5.app/article/כתבה-על-כתב-סילוק-בגב-הצק/
-כתבה מקצועית על כתב סילוק בגב הצ'ק - מידע משפטי חשוב על זכויותיכם מול חברות ביטוח, הסבר על חובת גילוי וביטול כתבי סילוק. מאת משרד עורכי דין ונוטריון טליה ברזאני
-
-### 05
-https://talia-barzani-law-notary-offic.zappy5.app/2019/01/05/
-כתבה על כתב סילוק בגב הצ'ק - מידע משפטי חשוב על חתימה על כתב ויתור וסילוק מחברות ביטוח. משרד עורכי דין ונוטריון טליה ברזאני.
-
-### הורות בקהילת הלהטב מה צריך לדעת על צוו
-https://talia-barzani-law-notary-offic.zappy5.app/article/הורות-בקהילת-הלהטב-מה-צריך-לדעת-על-צוו/
-מדריך מקיף על הורות בקהילת הלהט״ב - כל מה שצריך לדעת על צווי הורות ואימוץ לזוגות חד מיניים. עו״ד טליה ברזאני מסבירה את ההליכים המשפטיים, היתרונות והחסרונות של כל מסלול.
-
-### 08
-https://talia-barzani-law-notary-offic.zappy5.app/2021/07/08/
-הורות בקהילת הלהט״ב - מה צריך לדעת על צווי הורות ואימוץ? מאמר מקצועי מאת עו״ד טליה ברזאני על הסדרים משפטיים לזוגות להט״ב המעוניינים להביא ילדים לעולם
-
 ## Legal & Policy
 
 ### Privacy Policy
@@ -87,15 +57,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About משרד עורכי דין ונוטריון טליה ברזאני
-משרד עורכי דין ונוטריון טליה ברזאני is a business in the שירותים משפטיים industry.
-
-## Target Audience
-General audience
-
-## Industry
-שירותים משפטיים
-
+## About Business
 ---
 
 # Additional Resources
